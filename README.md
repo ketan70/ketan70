@@ -7,10 +7,7 @@ I am a computer engineering student passionate about software development and pr
 
 ## 📞 Contact Me
 
-<!DOCTYPE html>
-<html>
 <head>
-  <title>Your Page Title</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
@@ -28,8 +25,6 @@ I am a computer engineering student passionate about software development and pr
   <a href="https://github.com/ketan70">
     <i class="fab fa-github"></i>
   </a>
-</body>
-</html>
 
 
 
