@@ -2,10 +2,10 @@
 
 <h1 align="center">Hello, I'm Ketan Sandbhor! 👋</h1>
 
-<h4>
+<h3 align="center">
 
 As a passionate software engineering student 🚀, I am eager to unleash my boundless innovative brilliance 💡 through coding 👩‍💻, transforming my dreams into awe-inspiring reality. 🔥
-</h4>
+</h3>
 
 <h2>📞 Contact Me</h2>
 
