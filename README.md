@@ -39,24 +39,6 @@
   <li>Honors in Artificial Intelligence and Machine Learning (AIML)</li>
 </ul>
 
-<h2>🏆 Achievements and Certifications 🎯</h2>
-<ul>
-  <li>
-    Competitive Programming:
-    <ul>
-      <li>CodeChef Rating - 1492 ★ ★ coder</li>
-      <li>GeeksforGeeks - Institution Rank: 4</li>
-      <li>JEE entrance exam - Scored 90.89% percentile</li>
-    </ul>
-  </li>
-  <li>
-    Certifications:
-    <ul>
-      <li>Front-End Development 🌐   | Duke University</li>
-      <li>Python Data Science 🐍     | IBM</li>
-      <li>Microsoft Azure AI-900 🤖  | Microsoft</li>
-    </ul>
-  </li>
 </ul>
 
 <p align="center">Feel free to reach out to me for collaboration, job opportunities, or any questions you may have!</p>
