@@ -10,20 +10,10 @@ As a passionate software engineering student 🚀, I am eager to unleash my boun
 <h2>📞 Contact Me</h2>
 
 <p align="center">
-  [![GitHub](https://yourdomain.com/path/to/github-icon.svg)](https://github.com/YourGitHubUsername)
-# Project Name
 
 [![GitHub](https://img.shields.io/badge/GitHub-YourGitHubUsername-blue?style=for-the-badge&logo=github)](https://github.com/YourGitHubUsername)
 [![Email](https://img.shields.io/badge/Email-YourEmail-red?style=for-the-badge&logo=mail.ru)](mailto:youremail@example.com)
 
-
-  <a href="https://www.linkedin.com/in/ketan-sandbhor-7083/">
-    <img src="https://example.com/linkedin-icon.png" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/ketan70">
-    [![Email](https://yourdomain.com/path/to/email-icon.svg)](mailto:youremail@example.com)
-
-  </a>
 </p>
 
 <h2>🛠️ Skills</h2>
