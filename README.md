@@ -10,6 +10,7 @@ As a passionate software engineering student 🚀, I am eager to unleash my boun
 <h2>📞 Contact Me</h2>
 
 <p align="center">
+  
 [![GitHub](https://img.shields.io/badge/GitHub-ketan70-blue?style=for-the-badge&logo=github)](https://github.com/ketan70)
 [![Email](https://img.shields.io/badge/Email-ketansandbhor32%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ketansandbhor32@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ketan--sandbhor--7083-green?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ketan-sandbhor-7083/)
