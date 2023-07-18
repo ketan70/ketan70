@@ -10,14 +10,14 @@ As a passionate software engineering student 🚀, I am eager to unleash my boun
 <h2>📞 Contact Me</h2>
 
 <p align="center">
-  <a href="mailto:ketansandbhor32@gmail.com">
-    <img src="https://example.com/email-icon.png" alt="Email">
-  </a>
+  [![GitHub](https://yourdomain.com/path/to/github-icon.svg)](https://github.com/YourGitHubUsername)
+
   <a href="https://www.linkedin.com/in/ketan-sandbhor-7083/">
     <img src="https://example.com/linkedin-icon.png" alt="LinkedIn">
   </a>
   <a href="https://github.com/ketan70">
-    <img src="https://example.com/github-icon.png" alt="GitHub">
+    [![Email](https://yourdomain.com/path/to/email-icon.svg)](mailto:youremail@example.com)
+
   </a>
 </p>
 
