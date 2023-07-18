@@ -4,7 +4,7 @@
 
 <p align="center">Welcome to my GitHub profile! I am driven by boundless innovation 💡 and eager to turn my dreams into awe-inspiring reality. 🔥 Through coding, I aspire to create a positive impact and contribute to the world of technology.</p>
 
-<h2 align="center">📞 Contact Me</h2>
+<h2>📞 Contact Me</h2>
 
 <p align="center">
   <a href="https://github.com/ketan70">
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<h2 align="center">🛠️ Skills</h2>
+<h2 >🛠️ Skills</h2>
 
 <ul>
   <li>Programming Languages: C++ 🌟, Java ☕, Python 🐍, JavaScript 🌐, C 🖥️</li>
@@ -26,7 +26,7 @@
   <li>Frameworks: Django 🎸, Flask 🌶️, React ⚛️, TensorFlow 🧠, NLP 🗣️, Bootstrap 🌈, scikit-learn 🧮</li>
 </ul>
 
-<h2 align="center">🎓 Education</h2>
+<h2 >🎓 Education</h2>
 
 <ul>
   <li>
