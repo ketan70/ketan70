@@ -1,8 +1,11 @@
 <h1 align="center">Hello, I'm Ketan Sandbhor! 👋</h1>
 
-<h3 align="center">Passionate Software Engineering Student 🚀 | Coding Enthusiast 👩‍💻</h3>
+<h3 align="center">Passionate Software Engineering learner🚀 | Coding Enthusiast 👩‍💻 | 🌌 Tech Explorer 🌌 | Innovator 🧠</h3>
 
 <p align="center">Welcome to my GitHub profile! I am driven by boundless innovation 💡 and eager to turn my dreams into awe-inspiring reality. 🔥 Through coding, I aspire to create a positive impact and contribute to the world of technology.</p>
+
+<!-- Rest of the content remains the same -->
+
 
 <h2>📞 Contact Me</h2>
 
