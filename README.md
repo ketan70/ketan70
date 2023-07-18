@@ -7,9 +7,11 @@ I am a computer engineering student passionate about software development and pr
 
 ## 📞 Contact Me
 
-[![Email](ketansandbhor32@gmail.com)]  
-[![LinkedIn]([linkedin.com/in/ketan-sandbhor-7083/](https://www.linkedin.com/in/ketan-sandbhor-7083/))]  
-[![GitHub](https://github.com/ketan70)]    
+[Email](mailto:ketansandbhor32@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/ketan-sandbhor-7083/)
+[GitHub](https://github.com/ketan70)
+
 
 
 - 🔭 Currently, I am an  Software engineer at Worldline.
