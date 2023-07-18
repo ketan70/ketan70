@@ -3,7 +3,8 @@
 <h1 align="center">Hello, I'm Ketan Sandbhor! 👋</h1>
 
 <p>
-  I am a computer engineering student passionate about software development and problem-solving. I have experience in Django, React, Python, and building APIs. I strive for optimized solutions with a focus on efficiency.
+
+🚀 As a passionate software engineering student, I am eager to unleash my boundless innovative brilliance through coding 👩‍💻💡, transforming my dreams into awe-inspiring reality. 🔥
 </p>
 
 <h2>📞 Contact Me</h2>
