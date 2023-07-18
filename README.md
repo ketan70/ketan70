@@ -7,12 +7,9 @@ I am a computer engineering student passionate about software development and pr
 
 ## 📞 Contact Me
 
-[Email](mailto:ketansandbhor32@gmail.com)
-
-[LinkedIn](https://www.linkedin.com/in/ketan-sandbhor-7083/)
-[GitHub](https://github.com/ketan70)
-
-
+[![Email](https://example.com/email-icon.png)](mailto:ketansandbhor32@gmail.com)
+[![LinkedIn](https://example.com/linkedin-icon.png)](https://www.linkedin.com/in/ketan-sandbhor-7083/)
+[![GitHub](https://example.com/github-icon.png)](https://github.com/ketan70)
 
 - 🔭 Currently, I am an  Software engineer at Worldline.
 - 💼 Previously, I was an intern at Raisebe.Pvt.Ltd, where I worked on developing web apps and AI tools using Microsoft Azure. 💻
