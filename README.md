@@ -1,16 +1,13 @@
-<!-- Add your profile image here -->
-<p align="center">
-  <img src="https://example.com/profile-image.png" alt="Ketan Sandbhor">
-</p>
+
 
 <h1 align="center">Hello, I'm Ketan Sandbhor! 👋</h1>
 
-<h2>👨‍💻 About Me</h2>
 <p>
   I am a computer engineering student passionate about software development and problem-solving. I have experience in Django, React, Python, and building APIs. I strive for optimized solutions with a focus on efficiency.
 </p>
 
 <h2>📞 Contact Me</h2>
+
 <p align="center">
   <a href="mailto:ketansandbhor32@gmail.com">
     <img src="https://example.com/email-icon.png" alt="Email">
