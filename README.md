@@ -6,9 +6,31 @@
 I am a computer engineering student passionate about software development and problem-solving. I have experience in Django, React, Python, and building APIs. I strive for optimized solutions with a focus on efficiency.
 
 ## 📞 Contact Me
-[![Email](https://example.com/email-icon.png)](mailto:ketansandbhor32@gmail.com)
-[![LinkedIn](https://example.com/linkedin-icon.png)](https://www.linkedin.com/in/ketan-sandbhor-7083/)
-[![GitHub](https://example.com/github-icon.png)](https://github.com/ketan70)
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Page Title</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+  <!-- Email -->
+  <a href="mailto:ketansandbhor32@gmail.com">
+    <i class="fas fa-envelope"></i>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ketan-sandbhor-7083/">
+    <i class="fab fa-linkedin"></i>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/ketan70">
+    <i class="fab fa-github"></i>
+  </a>
+</body>
+</html>
+
 
 
 - 🔭 Currently, I am an  Software engineer at Worldline.
