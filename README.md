@@ -6,11 +6,20 @@
 I am a computer engineering student passionate about software development and problem-solving. I have experience in Django, React, Python, and building APIs. I strive for optimized solutions with a focus on efficiency.
 
 ## 📞 Contact Me
+<!-- Email -->
+<a href="mailto:ketansandbhor32@gmail.com">
+  <img src="https://example.com/email-icon.png" alt="Email" style="width:30px;height:30px;">
+</a>
 
-[![Email](https://example.com/email-icon.png)](mailto:ketansandbhor32@gmail.com)
-[![LinkedIn](https://example.com/linkedin-icon.png)](https://www.linkedin.com/in/ketan-sandbhor-7083/)
-[![GitHub](https://example.com/github-icon.png)](https://github.com/ketan70)
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/ketan-sandbhor-7083/">
+  <img src="https://example.com/linkedin-icon.png" alt="LinkedIn" style="width:30px;height:30px;">
+</a>
 
+<!-- GitHub -->
+<a href="https://github.com/ketan70">
+  <img src="https://example.com/github-icon.png" alt="GitHub" style="width:30px;height:30px;">
+</a>
 - 🔭 Currently, I am an  Software engineer at Worldline.
 - 💼 Previously, I was an intern at Raisebe.Pvt.Ltd, where I worked on developing web apps and AI tools using Microsoft Azure. 💻
 - 💼 I have also interned at Microsoft [FRT], where I gained valuable experience in Azure, AI, and web application development.
