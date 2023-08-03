@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ketan Sandbhor! 👋</h1>
-<h3 align="center">  Coding Enthusiast 👩‍💻 | 🌌 Tech Explorer 🌌 | Innovator 🧠</h3>
+<h3>  Coding Enthusiast 👩‍💻 | 🌌 Tech Explorer 🌌 | Innovator 🧠</h3>
 
-<hr>
+
 <h1 align="left">About me</h1> <p align="left">
   <a href="https://github.com/ketan70" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
@@ -32,8 +32,6 @@
 - 🎓 Bachelor of Computer Engineering [ BE ] from **Savitribai Phule Pune University**
   
 
-
-# Skills
 
 <h2 align="center">Skills</h2>
 
