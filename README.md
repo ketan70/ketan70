@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ketan Sandbhor! 👋</h1>
-<h4 align="center>  Coding Enthusiast 👩‍💻 | 🌌 Tech Explorer 🌌 | Innovator 🧠</h3>
+<h4 align="center>  Coding Enthusiast 👩‍💻 | 🌌 Tech Explorer 🌌 | Innovator 🧠</h4>
 
 
 <h1 align="left">About me</h1> <p align="left">
