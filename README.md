@@ -6,6 +6,14 @@
 
 <h2 align="center">📞 Contact Me</h2>
 
+<p align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-ketan70-blue?style=for-the-badge&logo=github)](https://github.com/ketan70)
+[![Email](https://img.shields.io/badge/Email-ketansandbhor32%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ketansandbhor32@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ketan--sandbhor--7083-green?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ketan-sandbhor-7083/)
+
+</p>
+
 ## Programming Languages
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash (Shell Scripting)" width="40" height="40"> |
 |-------------------------|-------------------------|------------------------|------------------------|--------------------------|
