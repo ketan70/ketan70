@@ -8,18 +8,19 @@
 <!-- Rest of the content remains the same -->
 
 
-<h2>📞 Contact Me</h2>
 
-<h1 align="left">Connect with me</h1>
-<p align="left">
-  <!-- GitHub Icon and Link -->
-  <a href="https://github.com/TheMostafax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-  <!-- Instagram Icon and Link -->
-  <a href="https://www.instagram.com/your_instagram_username/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <!-- LinkedIn Icon and Link -->
-  <a href="https://www.linkedin.com/in/your_linkedin_username/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <!-- Email Icon and Email Address -->
-  <a href="mailto:your_email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" /></a>
+<h2 >📞 Contact Me</h2>
+
+<p align="center">
+  <a href="https://github.com/ketan70">
+    <img src="https://img.shields.io/badge/GitHub-ketan70-blue?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:ketansandbhor32@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ketansandbhor32%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/ketan-sandbhor-7083/">
+    <img src="https://img.shields.io/badge/LinkedIn-ketan--sandbhor--7083-green?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
 </p>
 
 <h2 >🛠️ Skills</h2>
