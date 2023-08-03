@@ -20,14 +20,16 @@
 
 <h1 align="left">Connect with me</h1>
 <p align="center">
-  <a href="https://github.com/ketan70">
-    <img src="https://img.shields.io/badge/GitHub-ketan70-blue?style=for-the-badge&logo=github" alt="GitHub">
+  <a href="https://github.com/ketan70" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
   </a>
   <a href="mailto:ketansandbhor32@gmail.com">
     <img src="https://img.shields.io/badge/Email-ketansandbhor32%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/ketan-sandbhor-7083/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/ketan-sandbhor-7083/ target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
   </a>
 </p>
 
