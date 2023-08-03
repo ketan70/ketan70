@@ -9,6 +9,7 @@
 <h4 align="justify" style="font-family: times new roman" align="left">I am a software engineering, I am passionate about Web development and AI, I also have the skills to build a software system for clients.  I am driven by boundless innovation and eager to turn my dreams into awe-inspiring reality.</h4>
 
 - 🔭 I’m currently working as : **software engineer at Worldline**
+
 - 🌱 I’m currently learning : **Artificial Intelligent**
 
 - 📫 How to reach me : **ketansandbhorl@.com**
@@ -17,15 +18,18 @@
 
 - 📜 You can check here my resume : [Ketan Sandbhor CV]()
 
+- 🎓 Bachelor of Computer Engineering [ BE ] from **Savitribai Phule Pune University**
+  
+<hr>
 
 <h1 align="left">Connect with me</h1>
-<p align="center">
+<p align="left">
   <a href="https://github.com/ketan70" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
   </a>
-  <a href="mailto:ketansandbhor32@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ketansandbhor32%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
+ <a href="https://www.instagram.com/your-instagram-username" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/ketan-sandbhor-7083/ target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -35,6 +39,7 @@
 
 </p>
 <hr>
+
 # Skills
 
 ## Programming Languages
@@ -62,26 +67,3 @@
 |-------------------------|-------------------------|------------------------|-------------------------|-------------------------|-------------------------|
 | Jupyter                 | scikit-learn            | TensorFlow             | PyTorch                 | Keras                   | OpenCV                  |
 
-
-<hr>
-
-<h2 align="center">🎓 Education</h2>
-
-<table align="center">
-  <tr>
-    <td>
-      <b>Bachelor of Computer Engineering [B Tech/BE ]</b><br>
-      <i>Savitribai Phule Pune University</i><br>
-      <ul>
-        <li>CGPA: 8.9</li>
-        <li>Graduating: May 2023</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Honors in Artificial Intelligence and Machine Learning (AIML)</b><br>
-      <i>Savitribai Phule Pune University</i>
-    </td>
-  </tr>
-</table>
