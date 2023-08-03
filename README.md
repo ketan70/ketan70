@@ -1,21 +1,24 @@
 <h1 align="center">Hi there, I'm Ketan Sandbhor! 👋</h1>
 
-<h3 align="center">Passionate Software Engineering Learner 🚀 | Coding Enthusiast 👩‍💻 | 🌌 Tech Explorer 🌌 | Innovator 🧠</h3>
-
-<p align="center">Welcome to my GitHub profile! I am driven by boundless innovation 💡 and eager to turn my dreams into awe-inspiring reality. 🔥 Through coding, I aspire to create a positive impact and contribute to the world of technology.</p>
+<h3 align="center"> | Coding Enthusiast 👩‍💻 | 🌌 Tech Explorer 🌌 | Innovator 🧠</h3>
 
 <hr>
+<h1 align="left">About me</h1>
 
-<h2 align="center">📞 Contact Me</h2>
 
-<p align="center">
+<h4 align="justify" style="font-family: times new roman" align="left">I am a software engineering, I am passionate about Web development and AI, I also have the skills to build a software system for clients.  I am driven by boundless innovation and eager to turn my dreams into awe-inspiring reality.</h4>
+
+- 🔭 I’m currently working as : **software engineer at Worldline**
+- 🌱 I’m currently learning : **Artificial Intelligent**
+
+- 📫 How to reach me : **ketansandbhorl@.com**
   
-[![GitHub](https://img.shields.io/badge/GitHub-ketan70-blue?style=for-the-badge&logo=github)](https://github.com/ketan70)
-[![Email](https://img.shields.io/badge/Email-ketansandbhor32%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ketansandbhor32@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ketan--sandbhor--7083-green?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ketan-sandbhor-7083/)
+- 🌍 My personal portfolio website : [My Portfolio]()
 
-<h2 align="center">📞 Contact Me</h2>
+- 📜 You can check here my resume : [Ketan Sandbhor CV]()
 
+
+<h1 align="left">Connect with me</h1>
 <p align="center">
   <a href="https://github.com/ketan70">
     <img src="https://img.shields.io/badge/GitHub-ketan70-blue?style=for-the-badge&logo=github" alt="GitHub">
@@ -24,7 +27,7 @@
     <img src="https://img.shields.io/badge/Email-ketansandbhor32%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/ketan-sandbhor-7083/">
-    <img src="https://img.shields.io/badge/LinkedIn-ketan--sandbhor--7083-green?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn">
   </a>
 </p>
 
