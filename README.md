@@ -77,6 +77,7 @@
   <tr>
     <td>
       <h3 align="center">Programming Languages</h3>
+      <hr>
       <p align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
@@ -87,6 +88,7 @@
     </td>
     <td>
       <h3 align="center">Frameworks</h3>
+      <hr>
       <p align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40">
@@ -97,6 +99,7 @@
     </td>
     <td>
       <h3 align="center">Technologies</h3>
+      <hr>
       <p align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Back-End" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Front-End" width="40" height="40">
@@ -109,12 +112,12 @@
     </td>
     <td>
       <h3 align="center">Tools</h3>
+      <hr>
       <p align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux: Parrot OS" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40">
       </p>
     </td>
@@ -122,13 +125,27 @@
       <h3 align="center">Machine Learning and Artificial Intelligence</h3>
       <p align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40">       
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40">
       </p>
     </td>
+    <tr>
+      <td>| Java                   | Python                 | JavaScript            | C++                    | Bash                   
+      </td>
+      <td>
+        | Flask                   | React.js               | TensorFlow             | Spring                  | Bootstrap               |
+      </td>
+      <td>
+        | Back-End                | Front-End              | Microsoft-Azure        | HTML                    | CSS                     | WordPress               |
+      </td>
+      <td>
+        | Git                    | Linux: Parrot OS        | Visual Studio Code     | PyCharm                | Eclipse                | Docker                 |
+      </td>
+      <td>
+        | Jupyter                 | scikit-learn            | TensorFlow             | PyTorch                 | Keras                   | OpenCV                  |
+      </td>
+    </tr>
   </tr>
 </table>
 
