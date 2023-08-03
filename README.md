@@ -33,42 +33,20 @@
 
 
 
-<td align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-</td>
-<td align="center">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-</td>
-<td align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</td>
-<td align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-</td>
-<td align="center">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</td>
+## Programming Languages
+| C++ 🌟                  | Java ☕                  | Python 🐍              | JavaScript 🌐        | C 🖥️                |
+|-------------------------|-------------------------|------------------------|----------------------|---------------------|
+| ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg){: width="40" height="40" } | ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg){: width="40" height="40" } | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg){: width="40" height="40" } | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg){: width="40" height="40" } | ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg){: width="40" height="40" } |
 
+## Tools
+| Git 🐙                  | Linux 🐧                | Windows 🪟             | Visual Studio Code 🆚 | PyCharm 🐍           | MySQL 🗄️              | Eclipse 🌒            |
+|------------------------|-------------------------|------------------------|----------------------|----------------------|------------------------|-----------------------|
+| ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg){: width="40" height="40" } | ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg){: width="40" height="40" } | ![Windows](https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg){: width="40" height="40" } | ![VSCode](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg){: width="40" height="40" } | ![PyCharm](https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg){: width="40" height="40" } | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg){: width="40" height="40" } | ![Eclipse](https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg){: width="40" height="40" } |
 
+## Frameworks
+| Django 🎸               | Flask 🌶️               | React ⚛️               | TensorFlow 🧠          | NLP 🗣️               | Bootstrap 🌈            | scikit-learn 🧮        |
+|------------------------|-------------------------|------------------------|-----------------------|----------------------|-------------------------|-----------------------|
+| ![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg){: width="40" height="40" } | ![Flask](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg){: width="40" height="40" } | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg){: width="40" height="40" } | ![TensorFlow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg){: width="40" height="40" } | ![NLP](https://raw.githubusercontent.com/devicons/devicon/master/icons/nlp/nlp-original.svg){: width="40" height="40" } | ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg){: width="40" height="40" } | ![scikit-learn](https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg){: width="40" height="40" } |
 
 
 
