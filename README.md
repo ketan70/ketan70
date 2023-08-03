@@ -32,11 +32,10 @@
 </ul>
 
 
-
 ## Programming Languages
 | C++ 🌟                  | Java ☕                  | Python 🐍              | JavaScript 🌐        | C 🖥️                |
 |-------------------------|-------------------------|------------------------|----------------------|---------------------|
-| ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg){: width="40" height="40" } | ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg){: width="40" height="40" } | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg){: width="40" height="40" } | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg){: width="40" height="40" } | ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg){: width="40" height="40" } |
+| ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg){: width="40" height="40" } | ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg){: width="40" height="40" } | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg){: width="40" height="40" } | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg){: width="40" height="40" } | ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg){: width="40" height="40" } |
 
 ## Tools
 | Git 🐙                  | Linux 🐧                | Windows 🪟             | Visual Studio Code 🆚 | PyCharm 🐍           | MySQL 🗄️              | Eclipse 🌒            |
