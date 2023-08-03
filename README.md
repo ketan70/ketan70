@@ -28,12 +28,12 @@
 
 ## Technologies
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Back-End" width="40" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Front-End" width="40" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft-Azure" width="40" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"> |
-|-------------------------|------------------------|------------------------|-------------------------|-------------------------|--------------------------|--------------------------|
-| Back-End                | Front-End              | Microsoft-Azure        | HTML                    | CSS                     | WordPress               
+|-------------------------|------------------------|------------------------|-------------------------|-------------------------|--------------------------|
+| Back-End                | Front-End              | Microsoft-Azure        | HTML                    | CSS                     | WordPress            |     
 
 ## Tools
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux: Parrot OS" width="40" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"> |
-|------------------------|-------------------------|------------------------|------------------------|------------------------|------------------------|
+|------------------------|-------------------------|------------------------|------------------------|------------------------|
 | Git                    | Linux: Parrot OS        | Visual Studio Code     | PyCharm                | Eclipse                | Docker                 |
 
 ## Machine Learning and Artificial Intelligence
