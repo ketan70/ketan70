@@ -14,6 +14,20 @@
 [![Email](https://img.shields.io/badge/Email-ketansandbhor32%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ketansandbhor32@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ketan--sandbhor--7083-green?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ketan-sandbhor-7083/)
 
+<h2 align="center">📞 Contact Me</h2>
+
+<p align="center">
+  <a href="https://github.com/ketan70">
+    <img src="https://img.shields.io/badge/GitHub-ketan70-blue?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:ketansandbhor32@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ketansandbhor32%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/ketan-sandbhor-7083/">
+    <img src="https://img.shields.io/badge/LinkedIn-ketan--sandbhor--7083-green?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
 </p>
 <hr>
 # Skills
@@ -60,6 +74,7 @@
     </td>
   </tr>
   <tr>
+    <td>
       <b>Honors in Artificial Intelligence and Machine Learning (AIML)</b><br>
       <i>Savitribai Phule Pune University</i>
     </td>
