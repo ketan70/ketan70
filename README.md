@@ -4,6 +4,8 @@
 
 <p align="center">Welcome to my GitHub profile! I am driven by boundless innovation 💡 and eager to turn my dreams into awe-inspiring reality. 🔥 Through coding, I aspire to create a positive impact and contribute to the world of technology.</p>
 
+<hr>
+
 <h2 align="center">📞 Contact Me</h2>
 
 <p align="center">
@@ -13,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ketan--sandbhor--7083-green?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ketan-sandbhor-7083/)
 
 </p>
-
+<hr>
 # Skills
 
 ## Programming Languages
@@ -42,15 +44,14 @@
 | Jupyter                 | scikit-learn            | TensorFlow             | PyTorch                 | Keras                   | OpenCV                  |
 
 
-
+<hr>
 
 <h2 align="center">🎓 Education</h2>
 
 <table align="center">
   <tr>
-    <td width="70px" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/university/university-line.svg" alt="University" width="40" height="40"></td>
     <td>
-      <b>Bachelor of Computer Engineering</b><br>
+      <b>Bachelor of Computer Engineering [B Tech/BE ]</b><br>
       <i>Savitribai Phule Pune University</i><br>
       <ul>
         <li>CGPA: 8.9</li>
@@ -59,10 +60,8 @@
     </td>
   </tr>
   <tr>
-    <td width="70px" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ai/ai-original.svg" alt="AI/ML" width="40" height="40"></td>
-    <td>
       <b>Honors in Artificial Intelligence and Machine Learning (AIML)</b><br>
-      <i>Your Institution Name</i>
+      <i>Savitribai Phule Pune University</i>
     </td>
   </tr>
 </table>
