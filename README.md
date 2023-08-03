@@ -16,8 +16,6 @@
 
 # Skills
 
-# Skills
-
 ## Programming Languages
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash (Shell Scripting)" width="40" height="40"> |
 |-------------------------|-------------------------|------------------------|------------------------|--------------------------|
@@ -48,15 +46,23 @@
 
 <h2 align="center">🎓 Education</h2>
 
-<ul>
-  <li>
-    Bachelor of Computer Engineering, Savitribai Phule Pune University
-    <ul>
-      <li>CGPA: 8.9</li>
-      <li>Graduating: May 2023</li>
-    </ul>
-  </li>
-  <li>Honors in Artificial Intelligence and Machine Learning (AIML)</li>
-</ul>
-
-<p align="center">Feel free to reach out to me for collaboration, job opportunities, or if you have any questions!</p>
+<table align="center">
+  <tr>
+    <td width="70px" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/university/university-line.svg" alt="University" width="40" height="40"></td>
+    <td>
+      <b>Bachelor of Computer Engineering</b><br>
+      <i>Savitribai Phule Pune University</i><br>
+      <ul>
+        <li>CGPA: 8.9</li>
+        <li>Graduating: May 2023</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="70px" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ai/ai-original.svg" alt="AI/ML" width="40" height="40"></td>
+    <td>
+      <b>Honors in Artificial Intelligence and Machine Learning (AIML)</b><br>
+      <i>Your Institution Name</i>
+    </td>
+  </tr>
+</table>
