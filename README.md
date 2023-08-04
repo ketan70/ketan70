@@ -26,7 +26,7 @@ I am driven by boundless innovation and eager to turn my dreams into awe-inspiri
 
 - 🌱 I’m currently learning : **Artificial Intelligent**
 
-- 📫 How to reach me : **ketansandbhorl@.com**
+- 📫 How to reach me : **ketansandbhor1@.com**
   
 - 🌍 My personal portfolio website : [My Portfolio]() 
 
