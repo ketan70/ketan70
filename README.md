@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Ketan Sandbhor! 👋</h1> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/>
+<h1 align="center">Hi there, I'm Ketan Sandbhor! 👋</h1>
 <h4 align="center>  Coding Enthusiast 👩‍💻 | 🌌 Tech Explorer 🌌 | Innovator 🧠</h4>
 
 
-<h1 align="left">About me <img align="right"src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/></h1>
+<h1 align="left">About me <img align="right"src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></h1>
 <h4 align="center>  Coding Enthusiast 👩‍💻 | 🌌 Tech Explorer 🌌 | Innovator 🧠</h4> <p align="left">
   <a href="https://github.com/ketan70" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
