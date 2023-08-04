@@ -17,7 +17,7 @@
 </p>
 
 
-<h4><img align="right"src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style  width="100"/></h4>
+<h4><img align="right"src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style  width="50"/></h4>
 
 <h4 style="font-family: Times New Roman; text-align: justify;">
     I am a software engineer, passionate about Web development and AI. I also have the skills to build a software system for clients.
