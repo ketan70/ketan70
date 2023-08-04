@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ketan Sandbhor! 👋</h1>
+<h1 align="center">Hi there, I'm Ketan Sandbhor! <img src="https://thumbs.gfycat.com/BlindCaringCentipede-size_restricted.gif" width="100%" height=300></h1>
 <h4 align="center>  Coding Enthusiast 👩‍💻 | 🌌 Tech Explorer 🌌 | Innovator 🧠</h4>
 
 
