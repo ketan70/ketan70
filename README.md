@@ -17,7 +17,16 @@
 </p>
 
 
-<h4 align="justify" style="font-family: times new roman" align="left">I am a software engineering, I am passionate about Web development and AI, I also have the skills to build a software system for clients.  I am driven by boundless innovation and eager to turn my dreams into awe-inspiring reality.<img align="right"src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></h4>
+<h4 align="justify" style="font-family: times new roman" align="left">I am a software engineering, I am passionate about Web development and AI, I also have the skills to build a software system for clients.  I am driven by boundless innovation and eager to turn my dreams into awe-inspiring reality.<img align="right"src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style  width="100"/></h4>
+
+<h4 style="font-family: Times New Roman; text-align: justify;">
+    I am a software engineer, passionate about Web development and AI. I also have the skills to build a software system for clients.
+    I am driven by boundless innovation and eager to turn my dreams into awe-inspiring reality.
+</h4>
+<div style="display: flex; justify-content: flex-end; padding-top: 20px;">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="width: 100px;">
+</div>
+
 
 - 🔭 I’m currently working as : **software engineer at Worldline**
 
