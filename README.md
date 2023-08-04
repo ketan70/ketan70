@@ -6,10 +6,10 @@
   <a href="https://github.com/ketan70" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-  </a>
  <a href="https://www.instagram.com/your-instagram-username" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a><img align="right"src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+   
+  </a>
   <a href="https://www.linkedin.com/in/ketan-sandbhor-7083/ target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -25,7 +25,7 @@
 
 - 📫 How to reach me : **ketansandbhorl@.com**
   
-- 🌍 My personal portfolio website : [My Portfolio]()
+- 🌍 My personal portfolio website : [My Portfolio]() <img align="right"src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 - 📜 You can check here my resume : [Ketan Sandbhor CV]()
 
