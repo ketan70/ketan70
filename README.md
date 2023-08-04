@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ketan Sandbhor! 👋</h1>
+<h1 align="center">Hi there, I'm Ketan Sandbhor! 👋</h1> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/>
 <h4 align="center>  Coding Enthusiast 👩‍💻 | 🌌 Tech Explorer 🌌 | Innovator 🧠</h4>
 
 
