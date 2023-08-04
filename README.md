@@ -17,7 +17,7 @@
 </p>
 
 
-<h4 align="justify" style="font-family: times new roman" align="left">I am a software engineering, I am passionate about Web development and AI, I also have the skills to build a software system for clients.  I am driven by boundless innovation and eager to turn my dreams into awe-inspiring reality.</h4>
+<h4 align="justify" style="font-family: times new roman" align="left">I am a software engineering, I am passionate about Web development and AI, I also have the skills to build a software system for clients.  I am driven by boundless innovation and eager to turn my dreams into awe-inspiring reality.<img align="right"src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></h4>
 
 - 🔭 I’m currently working as : **software engineer at Worldline**
 
@@ -25,7 +25,7 @@
 
 - 📫 How to reach me : **ketansandbhorl@.com**
   
-- 🌍 My personal portfolio website : [My Portfolio]() <img align="right"src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+- 🌍 My personal portfolio website : [My Portfolio]() 
 
 - 📜 You can check here my resume : [Ketan Sandbhor CV]()
 
